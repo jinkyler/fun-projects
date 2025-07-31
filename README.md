@@ -41,8 +41,9 @@
 ## 📬 ติดต่อ
 
 หากต้องการแนะนำ ติชม หรือสอบถาม  
-> ✉️ [tjinasri@outlook.co.th](mailto:tjinasri@outlook.co.th)  
-> 🌐 [linkedin.com/in/tjinasri](https://linkedin.com/in/tjinasri)
+> 📧 [tjinasri@outlook.co.th](mailto:tjinasri@outlook.co.th)  
+> 🌐 [LinkedIn](https://linkedin.com/in/tjinasri)  
+> 💼 [Fastwork Profile](https://fastwork.co/user/tjinasri)
 
 ---
 
