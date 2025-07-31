@@ -119,11 +119,13 @@
 - หากใช้หลายภาษา สามารถแยกข้อความหรือ template ไว้ต่างหาก
 
 ---
+## ร่วมพัฒนา 💡
 
-## 🙋‍♂️ ผู้จัดทำ
+คุณสามารถเสนอฟีเจอร์ใหม่ หรือรายงานปัญหาได้โดยการเปิด Issue หรือ Pull Request
 
-> 📧 [tjinasri@outlook.co.th](mailto:tjinasri@outlook.co.th)  
-> 🌐 [LinkedIn](https://linkedin.com/in/tjinasri)  
-> 💼 [Fastwork Profile](https://fastwork.co/user/tjinasri)
+รายชื่อผู้ร่วมพัฒนาโปรเจกต์นี้:
 
+<a href="https://github.com/tjinasri/fun-projects/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=tjinasri/fun-projects" />
+</a>
 ---
