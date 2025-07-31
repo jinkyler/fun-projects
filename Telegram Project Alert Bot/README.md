@@ -42,7 +42,7 @@
 3. เชื่อมกับ Google Sheet:
    - กด `Responses > Link to Sheets`
    - เลือก Sheet เดียวกับที่ใช้ (`Preventive Maintenance`)
-4. เพิ่ม Script ผ่าน `Extensions > Apps Script` และเขียนฟังก์ชัน `onFormSubmit`
+4. เพิ่ม Script ผ่าน `Extensions > Apps Script` และเขียนฟังก์ชัน `onFormSubmit` --//มีรวมอยู่ใน Code แล้ว
 
 | หัวข้อ             | รูปแบบการกรอกข้อมูล             |
 |--------------------|---------------------------------|
